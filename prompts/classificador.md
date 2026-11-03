@@ -48,4 +48,4 @@ Reclamação: "oi"
 
 ## Reclamação a classificar
 
-{{reclamacao}}
+{{ $('Webhook').item.json.body.reclamacao }}

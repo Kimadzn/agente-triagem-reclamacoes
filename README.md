@@ -22,8 +22,8 @@ Na dúvida, o agente escala para um humano.
 ## Status
 
 - [x] Categorias e regras
-- [ ] Prompt do classificador
-- [ ] Fluxo no n8n
+- [x] Prompt do classificador
+- [x] Fluxo no n8n
 - [ ] Reclamações de teste
 - [ ] Script de avaliação
 - [ ] README final
